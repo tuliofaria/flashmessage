@@ -11,7 +11,7 @@ const Msg = () => {
       <Head>
         <title>Flash Message - Reading message</title>
       </Head>
-      <div className='h-screen mx-auto max-w-md'>
+      <div className='mx-auto max-w-md'>
         <img src='/logo.png' className='mx-auto' />
         <h1 className='text-white text-2xl text-center font-bold'>
           Your private message

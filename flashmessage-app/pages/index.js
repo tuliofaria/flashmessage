@@ -26,7 +26,7 @@ const Index = () => {
       <Head>
         <title>Flash Message App</title>
       </Head>
-      <div className='h-screen mx-auto max-w-md'>
+      <div className='mx-auto max-w-md'>
         <img src='/logo.png' className='mx-auto' />
         <h1 className='text-white text-5xl text-center font-bold'>
           Flash Message
